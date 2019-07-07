@@ -87,7 +87,7 @@ public class Solution {
         blog.setDate(new Date());
         System.out.println("Вы добавили блог: " + blog);
         return blog;
-        //МАКС ХУЙ СОСИ ЗАВТРА ТЕБЯ ВЫНЕСУ С ПЫРА НА НОСИЛКАХ
+        //ШУЧУ
 
     }
 
