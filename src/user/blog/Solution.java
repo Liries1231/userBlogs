@@ -81,15 +81,11 @@ public class Solution {
 
     }
 
-    public static Blog createBlog(String userMessage) {
-        Blog blog = new Blog();
-        blog.setText(userMessage);
-        blog.setDate(new Date());
-        System.out.println("Вы добавили блог: " + blog);
-        return blog;
+
+
     }
 
-}
+
 
 
 
